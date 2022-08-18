@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mustache": "^4.2.0",
+    "mustache-express": "^1.3.2",
+    "router": "^1.3.7"
+  },
+  "name": "canil",
+  "description": "### Desenvolvido em JavaScript e Node.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon -e js, json, mustache src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rspereira2002/nodejs-canil.git"
+  },
+  "author": "Robson Santos Pereira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rspereira2002/nodejs-canil/issues"
+  },
+  "homepage": "https://github.com/rspereira2002/nodejs-canil#readme"
+}
